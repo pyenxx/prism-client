@@ -1,6 +1,9 @@
 # prism-client
 a custom client of Phoenyx 1.0.2. | Phoenyx is developed by @nyuwaea / https://github.com/@nyuwaea
 
+# Prism Client 1.1
+Prism Client 1.1 will still be closed source since its still based on Phoenyx 1.0.2 and the Experimental Features in the Code are stil not in a state where i can release them
+
 # Prism Client 1.0
 Prism Client 1.0 will be closed sorce because there are quite a few Experimental Featues/ Changes that i dont want to share at the Moment
 but any Prism Client Version that is based on the upcoming Phoenyx/Rhythia merge will be Open Source
